@@ -1,1 +1,5 @@
-print("Hello, World")
+import pygame as pg
+
+pg.init()
+
+
